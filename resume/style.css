@@ -6,16 +6,17 @@ body {
 h1{
   font-size: 3em;
   color: #33485e;
-  text-align: center;
   text-transform: uppercase;
+  text-align:center;
 }
 
 h2{
   font-size: 1.5em;
   color: #ffffff;
   text-transform: uppercase;
-  text-align: center;
   background-color: #33485e;
+  font-style: bold;
+  font-weight: 400;
 }
 
 h3{
@@ -26,6 +27,8 @@ h3{
 h4{
   font-weight: 400;
   font-size: 1.5em;
+  font-style: bold;
+  font-weight: 400;
 }
 
 h5{
@@ -34,4 +37,7 @@ h5{
   font-style: italic;
 }
 h6{
-  font-size: 1em; }
+  font-size: 1em;
+  font-style: bold;
+  font-weight: 600;
+}
