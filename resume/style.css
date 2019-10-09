@@ -19,7 +19,20 @@ BODY {
   margin: 0 auto
 }
 
-strong{
+#degrees{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#do{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#strong{
   text-transform: uppercase;
   font-size: 1.5em;
   color:#33485e;
@@ -74,19 +87,16 @@ strong{
   margin-left: 0;
 }
 
-.menu {
-display: inline;
-margin-top: 10;
-margin-bottom: 10;
-margin-right: 0;
-margin-left: 0;
-text-align: center;
+li{
+  font-size: 1em;
 }
 
-.degrees{
-  margin-top: 5;
-  margin-bottom: 0;
-  margin-right: 0;
-  margin-left: 0;
+.menu{
+  margin: 10px;
+  padding: 0px;
+  text-align: center;
+}
 
+.menuitems{
+  display: inline;
 }
