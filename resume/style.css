@@ -11,7 +11,7 @@ BODY {
 #name{
   font-size: 3em;
   text-transform: uppercase;
-  text-align:center;
+  text-align: center;
   color: #33485e;
   border-bottom: 1px solid #33485e;
   width: 60%;
@@ -36,6 +36,14 @@ strong{
   width: 70%;
   min-width: 300px;
 
+}
+.title{
+  text-align: center;
+  font-weight: 600;
+  margin-top: 20;
+  margin-bottom: : 10;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 .jobtitle{
@@ -64,4 +72,21 @@ strong{
   margin-bottom: 10;
   margin-right: 0;
   margin-left: 0;
+}
+
+.menu {
+display: inline;
+margin-top: 10;
+margin-bottom: 10;
+margin-right: 0;
+margin-left: 0;
+text-align: center;
+}
+
+.degrees{
+  margin-top: 5;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+
 }
