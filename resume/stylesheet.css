@@ -1,0 +1,25 @@
+.container{
+background-color: #efefef
+max-width: 1000px;
+margin: 0 auto;
+width: 100%;}
+
+.sectionheader {
+text-align: left;
+font-size: 2em;
+text-transform: uppercase;
+font-family: sans-serif,serif;
+font-style: italic;
+font-weight: bold;
+color:#CAEBF2;
+}
+
+.jobtitle {
+  text-align: left;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-family: sans-serif,serif;
+  font-weight: bold;
+  color:red;
+
+}
