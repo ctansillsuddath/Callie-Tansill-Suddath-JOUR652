@@ -1,5 +1,5 @@
 .container{
-background-color: #efefef
+background-color:#ca3bf2
 max-width: 1000px;
 margin: 0 auto;
 width: 100%;}
@@ -8,18 +8,32 @@ width: 100%;}
 text-align: left;
 font-size: 2em;
 text-transform: uppercase;
-font-family: sans-serif,serif;
-font-style: italic;
-font-weight: bold;
-color:#CAEBF2;
+font-family: Verdana;
+font-style: ;
+font-weight: ;
+color:#ff383f;
 }
 
 .jobtitle {
   text-align: left;
-  font-size: 1.5em;
-  text-transform: uppercase;
-  font-family: sans-serif,serif;
-  font-weight: bold;
-  color:red;
-
+  font-size: 1.25em;
+  text-transform: ;
+  font-family: Verdana;
+  font-weight: ;
+  color:#505050;
 }
+.company {
+  text-align: left;
+  font-size: 1em;
+  text-transform: ;
+  font-family: Verdana;
+  font-weight: ;
+  color:#505050;
+}
+.date {
+  text-align: left;
+  font-size: 1em;
+  text-transform: ;
+  font-family: Verdana;
+  font-weight: ;
+  color:#505050;
