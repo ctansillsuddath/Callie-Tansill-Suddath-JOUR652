@@ -1,0 +1,32 @@
+.headline {
+  font-size:3em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family 'Monsterrat' , sans-serif;
+}
+.byline {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family 'Monsterrat' , sans-serif;
+}
+.chapter {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:left;
+  font-family 'Monsterrat' , sans-serif;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: caebf2;
+  color: #505050;
+  font-family: Verdana;
+  text-align: center;
+}
