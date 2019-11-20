@@ -1,0 +1,70 @@
+.bg-dark {
+ background:#000 !important;
+}
+ul.navbar-nav {
+ margin-left:50%;
+}
+.navbar {
+ font-family: 'Montserrat', sans-serif;
+ font-size:1.25em;
+}
+
+.hero-image{
+  width: 100%;
+  max-width: 900px;
+  align:center;
+}
+
+.star {
+  padding-left:3px;
+  width:15px;
+}
+
+.headline {
+  font-size:3em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat' sans-serif;
+}
+.byline {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat' sans-serif;
+}
+.chapter {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:left;
+  font-family: 'Monsterrat' sans-serif;
+}
+
+.chap1{
+  font-family:'PT Serif' , serif;
+  max-width: 800px;
+  margin-top:25px;
+  margin-bottom:25px;
+}
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Verdana;
+  text-align: center;
+  height: 100px;
+  padding: 25px;
+  font-family: 'Monsterrat' sans-serif;
+}
+
+p{
+ text-align:left;
+ line-height:180%;
+}
+.red {
+ color: #e0162b;
+}
+.blue {
+ color: #0052a5;
+}

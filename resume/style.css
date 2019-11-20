@@ -1,79 +1,46 @@
-BODY {
-    font-family:'Open sans', arial, sans-serif;
-    size: 1em;
-    color: #444;
+.headline {
+  font-size:3em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat';
 }
-#container{
-  max-width: 1000px;
-  margin: 0 auto;
+.byline {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat';
+}
+.chapter {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:left;
+  font-family: 'Monsterrat';
+}
+
+.body{
+  font-family:'PT Serif' , serif;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
   width: 100%;
-}
-#name{
-  font-size: 3em;
-  text-transform: uppercase;
+  background-color: caebf2;
+  color: #505050;
+  font-family: Verdana;
   text-align: center;
-  color: #33485e;
-  border-bottom: 1px solid #33485e;
-  width: 60%;
-  min-width: 300px;
-  margin: 0 auto
 }
 
-strong{
-  text-transform: uppercase;
-  font-size: 1.5em;
-  color:#33485e;
+p{
+ text-align:left;
+ line-height:180%;
 }
-.sectionheader{
-  font-size: 1.5em;
-  color: #ffffff;
-  text-transform: uppercase;
-  background-color: #33485e;
-  font-style: bold;
-  font-weight: 400;
-  margin-bottom: : 10;
-  margin-top: 20;
-  width: 70%;
-  min-width: 300px;
-
+.red {
+ color: #e0162b;
 }
-
-.jobtitle{
-  font-size: 1.5em;
-  font-weight: 600;
-}
-.organization{
-  font-weight: 400;
-  font-size: 1.5em;
-
-}
-
-.date{
-  font-weight: 400;
-  font-size: 1em;
-  font-style: italic;
-  margin-top: 2px;
-  margin-bottom: 0px;
-
-}
-.description{
-  font-size: 1em;
-  font-style: bold;
-  font-weight: 600;
-  margin-top: 10;
-  margin-bottom: 10;
-  margin-right: 0;
-  margin-left: 0;
-}
-
-.menu{
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-right: 0;
-  margin-left: 0;
-  text-align: center;
-  display: inline;
-
-
-
+.blue {
+ color: #0052a5;
 }
