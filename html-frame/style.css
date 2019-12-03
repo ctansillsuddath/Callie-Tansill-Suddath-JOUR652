@@ -1,0 +1,141 @@
+.bg-dark {
+ background:#000 !important;
+}
+ul.navbar-nav {
+ margin-left:50%;
+}
+.navbar {
+ font-family: 'Montserrat', sans-serif;
+ font-size:1.25em;
+}
+
+.hero-image{
+  width: 100%;
+  max-width: 900px;
+  align:center;
+}
+
+.star {
+  padding-left:3px;
+  width:15px;
+}
+
+.headline {
+  font-size:3em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat' sans-serif;
+}
+.byline {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:center;
+  font-family: 'Monsterrat' sans-serif;
+}
+.chapter {
+  font-size:1em;
+  font-weight:700;
+  font-style:bold;
+  text-align:left;
+  font-family: 'Monsterrat' sans-serif;
+}
+
+.intro{
+  font-family:'Monsterrat'  sans-serif;
+  font-size: 1.25em;
+  font-style:bold;
+  max-width: 800px;
+  margin-top:25px;
+  margin-bottom:25px;
+  text-align:left;
+  align-content: center;
+}
+
+.caption
+{font-family:'Monsterrat'  sans-serif;
+font-size: 1em;
+text-align: center;
+padding-top: 20px;
+width: 100%;
+}
+
+.subheading {
+  display: inline;
+  text-align: left;
+}
+
+.title-star{
+  padding-left:3px;
+  width:15px;
+  display: inline;
+  margin-right: 10px;
+  text-align: left;
+
+
+}
+.chapter-title{
+  font-family:'Monsterrat'  sans-serif;
+  font-size: 2em;
+  display: inline;
+  text-align:left;
+  font-weight:700;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Verdana;
+  text-align: center;
+  height: 100px;
+  padding: 25px;
+  font-family: 'Monsterrat' sans-serif;
+}
+
+.red {
+ color: #e0162b;
+}
+.blue {
+ color: #0052a5;
+}
+
+
+.stack-image{
+width:100%;
+max-width:900px;
+margin:0 auto;
+padding-top:30px;
+font-family: 'Montserrat', sans-serif;
+color:#999;
+}
+
+
+
+.graphic-container {
+ padding-top:30px;
+ padding-bottom:30px;
+ border-top:1px solid #cdcdcd;
+ border-bottom:1px solid #cdcdcd;
+ font-family: 'Montserrat', sans-serif;
+ margin:0 auto;
+}
+
+
+p {
+  text-decoration: none;
+  Link-color: #e0162b;
+  text-align: left;
+  line-height: 180%;
+
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:visited {
+  color: #999;
+}
