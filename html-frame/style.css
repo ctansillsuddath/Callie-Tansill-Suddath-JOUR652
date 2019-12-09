@@ -5,8 +5,7 @@
 .navbar {
  font-family: 'Bebas Neue', sans-serif;
  color: white;
- font-size: 20pt;
-   text-align: left;
+ font-size: ;
 }
 
 .hero-image{
@@ -45,12 +44,12 @@
 }
 
 #chapter3{
-      font-size:2em;
-      font-weight:700;
-      font-style:bold;
-      text-align:left;
-      font-family:"Bebas Neue", sans-serif;
-        color:#02075d;
+  font-size:2em;
+  font-weight:700;
+  font-style:bold;
+  text-align:left;
+  font-family:"Bebas Neue", sans-serif;
+  color:#02075d;
 }
 
 .about{
@@ -65,20 +64,16 @@
   color:#02075d;
 }
 
-.introtext{
+.chaptertext{
   font-family:'Monsterrat'  sans-serif;
   font-size: 1em;
-  font-style:bold;
-  max-width: 800px;
   margin-top:25px;
   margin-bottom:25px;
-  text-align:left;
-  align-content: center;
   color:#02075d;
 }
 
 .caption{
-font-family:'Monsterrat'  sans-serif;
+font-family:'Monsterrat' sans-serif;
 font-size: 1em;
 text-align: center;
 padding-top: 20px;
@@ -94,6 +89,13 @@ color:#02075d;
   font-family:"Bebas Neue", sans-serif;
     color:#02075d;
 }
+
+.graphic-container{
+  font-size:1.25em;
+  font-weight:auto;
+  text-align:center;
+  font-family:"Bebas Neue", sans-serif;
+    color:#02075d;}
 
 .chapter-title{
   font-family:'Monsterrat'  sans-serif;
