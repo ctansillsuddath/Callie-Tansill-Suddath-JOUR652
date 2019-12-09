@@ -6,6 +6,7 @@
  font-family: 'Bebas Neue', sans-serif;
  color: white;
  font-size: 20pt;
+   text-align: left;
 }
 
 .hero-image{
@@ -25,7 +26,7 @@
   color:#02075d;
 }
 
-.chapter1{
+#chapter1{
   font-size:2em;
   font-weight:700;
   font-style:bold;
@@ -34,16 +35,16 @@
     color:#02075d;
 }
 
-.chapter2{
+#chapter2{
   font-size:2em;
   font-weight:700;
   font-style:bold;
   text-align:left;
   font-family:"Bebas Neue", sans-serif;
     color:#02075d;
-}    
+}
 
-.chapter3{
+#chapter3{
       font-size:2em;
       font-weight:700;
       font-style:bold;
@@ -108,14 +109,6 @@ color:#02075d;
   font-family:'Monsterrat'  sans-serif;
   font-size: 2em;}
 
-.footer {
-  background-color: #02075d;
-  color: #ffffff;
-  font-family: Verdana;
-  text-align: center;
-  height: 50px;
-  font-family: 'Monsterrat' sans-serif;
-}
 
 .stack-image{
 width:100%;
@@ -127,17 +120,19 @@ color:#999;
 }
 
 
-
+footer {
+background-color: #02075d;
+color: #FFF;
+font-family: 'Montserrat', sans-serif;
+height: 75px;
+padding: 25px;
+text-align: center;
+width: 100%;
+}
 
 p {
   text-decoration: none;
   Link-color: #e0162b;
   text-align: left;
   line-height: 180%;
-
-}
-
-
-a:visited {
-  color: #999;
 }
